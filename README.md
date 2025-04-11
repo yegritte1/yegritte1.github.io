@@ -18,4 +18,7 @@
 <img src="人工智能/微信图片_20250411110249.png" alt="示例图片" width="300" />
 <img src="人工智能/微信图片_20250411110401.png" alt="示例图片" width="300" />
 <img src="人工智能/微信图片_20250411125817.png" alt="示例图片" width="300" />
-
+<video src="人工智能/抖音2025411-185126.mp4" alt="示例视频" width="300" controls autoplay></video>
+<video src="人工智能/抖音2025411-395622.mp4" alt="示例视频" width="300" controls autoplay></video>
+<video src="人工智能/抖音2025411-445288.mp4" alt="示例视频" width="300" controls autoplay></video>
+<video src="人工智能/抖音2025411-789795.mp4" alt="示例视频" width="300" controls autoplay></video>
